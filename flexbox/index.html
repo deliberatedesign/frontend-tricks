@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="" />
+    <meta itemprop="name" content="">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="">
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:image:src" content="">
+    <meta name="twitter:domain" content="">
+    <!-- Open Graph data (Facebook) -->
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="" />
+    <meta property="og:description" content="" />
+    <meta name="theme-color" content="">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:200,400,900&display=swap">
+    <link rel="stylesheet" type="text/css" href="css/style.min.css" inline>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/application.js"></script>
+</head>
+<body>
+
+<div class="header-block">
+  <h1>Flexbox</h1>
+  <p>Understanding Flexbox CSS Properties</p>
+  <div class="scroll-icon">
+    <i class="fas fa-angle-down"></i>
+  </div>
+</div>
+
+<div class="tutorial-group">
+  <div class="secondary-block">
+    <h2>Container Properties</h2>
+    <p>Use the following CSS properties on the flexbox container.</p>
+  </div>
+  <div class="overview-block offset" id="container-tutorials"></div>
+</div>
+
+<div class="tutorial-group">
+  <div class="secondary-block">
+    <h2>Item Properties</h2>
+    <p>
+      Use the following CSS properties on flexbox items.<br/>
+      The below examples will effect the <strong>Target</strong> items.
+    </p>
+  </div>
+  <div class="overview-block offset" id="item-tutorials"></div>
+</div>
+
+<!--
+================================================
+CONTAINER EXAMPLES
+================================================ -->
+
+<div id="example-01"
+    class="items"
+    data-group="#container-tutorials"
+    data-tutorial="split-view"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-switcher="justify-content"
+    data-swoptions="flex-start,flex-end,center,space-between,space-around,space-evenly">
+  <div class="item">1</div>
+  <div class="item">2</div>
+</div>
+
+<div id="example-04"
+    class="items"
+    data-group="#container-tutorials"
+    data-tutorial="split-view"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-switcher="align-items"
+    data-swoptions="flex-start,flex-end,center,stretch,baseline">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+</div>
+
+<div id="example-03"
+    class="items"
+    data-group="#container-tutorials"
+    data-tutorial="split-view"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-switcher="flex-wrap"
+    data-swoptions="nowrap,wrap,wrap-reverse">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+  <div class="item">6</div>
+</div>
+
+<div id="example-05"
+    class="items"
+    data-group="#container-tutorials"
+    data-tutorial="split-view"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-switcher="align-content"
+    data-swoptions="flex-start,flex-end,center,stretch,space-between,space-around">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+  <div class="item">6</div>
+  <div class="item">7</div>
+  <div class="item">8</div>
+  <div class="item">9</div>
+</div>
+
+<!--
+================================================
+END CONTAINER EXAMPLES
+================================================ -->
+
+
+
+
+
+
+<!--
+================================================
+ITEM EXAMPLES
+================================================ -->
+
+
+<div id="example-06"
+    class="items"
+    data-group="#item-tutorials"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-tutorial="split-view"
+    data-switcher="flex-basis"
+    data-swoptions="auto,50%,1000px"
+    data-apply="0">
+  <div class="item">1 (Target)</div>
+  <div class="item">2</div>
+</div>
+
+<div id="example-06"
+    class="items"
+    data-group="#item-tutorials"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-tutorial="split-view"
+    data-switcher="flex-grow"
+    data-swoptions="0,1"
+    data-apply="0">
+  <div class="item">1 (Target)</div>
+  <div class="item">2</div>
+</div>
+
+<div id="example-07"
+    class="items"
+    data-group="#item-tutorials"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-tutorial="split-view"
+    data-switcher="flex-shrink"
+    data-swoptions="1,0"
+    data-apply="0">
+  <div class="item">1 (Target)</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+</div>
+
+<div id="example-07"
+    class="items"
+    data-group="#item-tutorials"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-tutorial="split-view"
+    data-switcher="order"
+    data-swoptions="0,-1,99"
+    data-apply="1">
+  <div class="item">1</div>
+  <div class="item">2 (Target)</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+</div>
+
+<div id="example-04"
+    class="items"
+    data-group="#item-tutorials"
+    data-toggle="flex-direction"
+    data-toptions="row,column,row-reverse,column-reverse"
+    data-tutorial="split-view"
+    data-switcher="align-self"
+    data-swoptions="auto,flex-start,flex-end,center,baseline,stretch"
+    data-apply="0">
+  <div class="item">1 (Target)</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+</div>
+
+<!--
+================================================
+END ITEM EXAMPLES
+================================================ -->
+
+
+<script id="split-view-template" type="text/x-custom-template">
+  <div class="container split-view-container">
+    <ul class="toggler"></ul>
+    <div class="split-view">
+      <ul class="switch-options"></ul>
+      <div class="preview">
+        <div class="preview-card"></div>
+      </div>
+    </div>
+  </div>
+</script>
+
+
+</body>
+</html>
