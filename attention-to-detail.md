@@ -1,7 +1,5 @@
 # Attention to detail
 
----
-
 ## Slow down.
 
 **Slow down.** Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
