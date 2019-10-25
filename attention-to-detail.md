@@ -1,5 +1,7 @@
 # Attention to detail
 
+## Slow down.
+
 *Slow down.* Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
 
 I personally review my own PR’s several times before requesting a review. I will spend time nit-picking every part of them until I can no longer see any errors. I do this by going line through line, just as if it was your PR.
@@ -10,11 +12,15 @@ This also helps when you have an error. If you’ve checked your work often, you
 
 ---
 
-*Understanding the Why.* Make sure that you know the reason of why something works, or why its done a certain way. This is important to understand, so as you move further into developing your project - you can change things with knowledge rather than assumptions. 
+## Understanding Why.
+
+*Understanding Why.* Make sure that you know the reason of why something works, or why its done a certain way. This is important to understand, so as you move further into developing your project - you can change things with knowledge rather than assumptions. 
 
 It can be easy to google things quickly, or copy and paste something that seems to be working elsewhere. But taking a moment to look at it in a little more detail, understanding what it’s doing without assumptions, is what helps grow your knowledge in an area faster.
 
 ---
+
+## Take Notes.
 
 *Take notes.* Keeping a strong note system is key. It’s difficult to remember every fix you’ve made, every command, or every process unless it is written down and can easily be searched.
 
