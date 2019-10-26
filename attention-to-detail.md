@@ -1,6 +1,6 @@
 # Developing Habits to Work Faster
 
-It's important to learn to improve your own personal habits and processes to get move at a faster pace and learn things more quickly. Here are some of the things I have learned through my own experience, that maybe could help you as well.
+Over time, it's important to develop habits that can help you increase your productivity and learn things more quickly. Through experience, I have learned a habits that has made a big impact on how I work, and maybe my perspective can help you as well.
 
 ## Practice checking your work
 
