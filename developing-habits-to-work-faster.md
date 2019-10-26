@@ -55,5 +55,6 @@ I do the same for things for what I am just learning, even when those things are
 
 We become better at our skillset with experience, so you can think of referencing your notes as an accelerator to gaining that experience. We can do this by accuratly recording the knowledge we have learned instead of having to become more familiar and re-learning each time.
 
+---
 
-
+I hope these things have inspired you to start developing your own habits. As we grow as developers and become more experienced - we should always be finding new ways to improve. I hope this helps you as much as it has helped me.
