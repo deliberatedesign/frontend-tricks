@@ -38,14 +38,14 @@ While self-reviewing our own pull requests helps in learning how to check our ow
 One of the most time consuming bugs to fix is a syntax error in a project of messy, unformatted code. It literally becomes a hunt to find the needle in the haystack. You should **slow down**. As you write code, you need to constantly check your formatting and if the files have the correct tabs/spaces. It is a million times easier to tell if you are missing a closing `</div>` or a missing `}` if you are formatting as you write your code.
 
 
-#### Understanding Why.
+## Understanding Why.
 
 Make sure that you know the reason of why something works, or why its done a certain way. This is important to understand, so as you move further into developing your project - you can change things with knowledge rather than assumptions. 
 
 It can be easy to google things quickly, or copy and paste something that seems to be working elsewhere. But taking a moment to look at it in a little more detail, understanding what it’s doing without assumptions, is what helps grow your knowledge in an area faster.
 
 
-#### Take Notes.
+## Take Notes.
 
 Keeping a strong note system is key. It’s difficult to remember every fix you’ve made, every command, or every process unless it is written down and can easily be searched.
 
