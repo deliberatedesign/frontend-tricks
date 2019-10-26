@@ -53,7 +53,7 @@ I personally take notes on every bug I've had to tackle and the fix that solved 
 
 I do the same for things for what I am just learning, even when those things are small. The more I can go back to my notes, helps me understand it better, and I can repeat it as I become comfortable with it. This also prevents me having to reach out or re-learn something because it's been a while.
 
-We become better at our skillset with experience, so you can think of referencing your notes as an accelerator to gaining that experience. We can do this by accuratly recording the knowledge we have learned instead of having to become more familiar and re-learning each time.
+We become better at our skillset with experience, so you can think of referencing your notes as an accelerator to gaining that experience. We can do this by accuratly recording the knowledge we have learned instead of having to become familiar and re-learning each time.
 
 ---
 
