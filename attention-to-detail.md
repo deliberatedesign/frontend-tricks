@@ -7,9 +7,9 @@ Over time, it's important to develop habits that can increase your productivity.
 No matter what task we are given, most likely, we will make mistakes. We will very rarely do something perfect the first time. Something I have learned, is if I want to move fast, I need to **slow down**.  Although that doesn't sound like the right thing to do, it has increased my productivity 10 fold.
 
 
-### Practice checking your work
+### Practice checking your own work
 
-You should start practicing checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things -
+Practice checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things -
 
 1. Develop habits that lower the amount of mistakes we are making.
 2. Develop habits that allow us to catch those mistakes more quickly.
@@ -17,7 +17,7 @@ You should start practicing checking your own work, even when it's all in your h
 
 #### Self-reviewing Pull Requests
 
-Let's say we are working on a task - we are developing a feature for our project. We have visually studied the mockup we should folow and we have coded it at our best ability. It is working in the browser and it looks just like the design - WE DID IT!  So we commit our work and push our branch up to Github. We create a Pull Request and immediately request reviewers, and move on to our next task.
+Let's say we are developing a feature for our project. We have visually studied the mockup we should folow and we have coded it at our best ability. It is working in the browser and it looks just like the design - WE DID IT!  So we commit our work and push our branch up to Github. We create a Pull Request and immediately request reviewers, and move on to our next task.
 
 **Wait, slow down.** Personally, when I finish coding locally - I create my Pull Request and I immediately start reviewing my own Pull Request *before* I ask any reviewers to take a look. Why? Why would I review my own PR, when I just coded it and it looked great locally? I can tell you, it might seem silly, but the code that you see in your local IDE (Atom, VSCode, etc) - looks completely different than viewing the code in a pull request. It's a different perspective - you will see things you didn't see before.
 
