@@ -57,4 +57,4 @@ We become better at our skillset with experience, so you can think of referencin
 
 ---
 
-I hope these things have inspired you to start developing your own habits. As we grow as developers and become more experienced - we should always be finding new ways to improve. I hope this helps you as much as it has helped me.
+I hope these things have inspired you to start developing your own habits. As we grow as developers and become more experienced - we should always be finding new ways to improve.
