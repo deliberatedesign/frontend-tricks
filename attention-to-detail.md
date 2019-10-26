@@ -19,7 +19,17 @@ You should start practicing checking your own work, even when it's all in your h
 
 Let's say we are working on a task - we are developing a feature for our project. We have visually studied the mockup we should folow and we have coded it at our best ability. It is working in the browser and it looks just like the design - WE DID IT!  So we commit our work and push our branch up to Github. We create a Pull Request and immediately request reviewers, and move on to our next task.
 
-**Not quite.** When I finish my feature locally - I create my Pull Request and I immediately click on the "files" tab and view all my code changes. I give myself a code review *before* I ask any reviewers to take a look.
+**Wait, slow down.** Personally, when I finish coding locally - I create my Pull Request and I immediately start reviewing my own Pull Request *before* I ask any reviewers to take a look. Why? Why would I review my own PR, when I just coded it and it looked great locally? I can tell you, it might seem silly, but the code that you see in your local IDE (Atom, VSCode, etc) - looks completely different than viewing the code in a pull request. It's a different perspective - you will see things you didn't see before.
+
+I review my Pull Requests the exact same as when I review any of yours. I go line by line with a careful eye, looking for syntax errors and things that can be done better; nit-picking the same way I nit-pick for your code. I make notes, I go through and make the changes locally everytime I see something that needs changed. Then, I push back up, and view my Pull Request again. I continue until I cannot find any more errors. **Then**, I request reviewers.
+
+The difference at this point is that now I am 100% confident in my code. I've caught those "silly" errors. Now when a reviewer comments on my code suggesting changes they could only be for one of two reasons -
+
+1. It is something I completely didn't think of and have overlooked.
+2. It is something I have yet to learn, and it becomes a learning experience.
+
+
+---
 
 
 
