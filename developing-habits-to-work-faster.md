@@ -7,7 +7,7 @@ Over time, it's important to develop habits that can increase your productivity.
 No matter what task we are given, most likely, we will make mistakes. We will very rarely do something perfect the first time. Something I have learned, is if I want to move fast, I need to **slow down**.  Although that doesn't sound like the right thing to do, it has increased my productivity 10 fold.
 
 
-### Practice checking your own work
+## Practice checking your own work
 
 Practice checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things -
 
