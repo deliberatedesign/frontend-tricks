@@ -9,6 +9,11 @@ No matter what task we are given, most likely, we will make mistakes. We will ve
 
 ### Slow down.
 
+You should start practicing checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things.
+
+1. Develop habits that lower the amount of mistakes we are making.
+2. Develop habits that allow us to catch those mistakes more quickly.
+
 **Slow down.** Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
 
 I personally review my own PR’s several times before requesting a review. I will spend time nit-picking every part of them until I can no longer see any errors. I do this by going line through line, just as if it was your PR.
