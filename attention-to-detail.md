@@ -2,12 +2,12 @@
 
 Over time, it's important to develop habits that can help increase your productivity. Through experience, I have learned a few habits that have made a big impact on how I work, and maybe my perspective can help you as well.
 
-## Practice checking your work
+## Slow down.
 
 No matter what task we are given, most likely, we will make mistakes. We will very rarely do something perfect the first time. Something I have learned, is if I want to move fast, I need to **slow down**.  Although that doesn't sound like the right thing to do, it has increased my productivity 10 fold.
 
 
-### Slow down.
+### Practice checking your work
 
 You should start practicing checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things.
 
