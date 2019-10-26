@@ -1,6 +1,13 @@
-# Attention to detail
+# Developing Habits to Work Faster
 
-## Slow down.
+It's important to learn to improve your own personal habits and processes to get move at a faster pace and learn things more quickly. Here are some of the things I have learned through my own experience, that maybe could help you as well.
+
+## Practice checking your work
+
+No matter what task we are given, most likely, we will make mistakes. We will very rarely do something perfect the first time. Something I have learned, is if I want to move fast, I need to **slow down**.  Although that doesn't sound like the right thing to do, it has increased my productivity 10 fold.
+
+
+### Slow down.
 
 **Slow down.** Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
 
