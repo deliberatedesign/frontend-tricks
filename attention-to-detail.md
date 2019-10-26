@@ -21,7 +21,7 @@ Let's say we are working on a task - we are developing a feature for our project
 
 **Wait, slow down.** Personally, when I finish coding locally - I create my Pull Request and I immediately start reviewing my own Pull Request *before* I ask any reviewers to take a look. Why? Why would I review my own PR, when I just coded it and it looked great locally? I can tell you, it might seem silly, but the code that you see in your local IDE (Atom, VSCode, etc) - looks completely different than viewing the code in a pull request. It's a different perspective - you will see things you didn't see before.
 
-I review my Pull Requests the exact same as when I review any of yours. I go line by line with a careful eye, looking for syntax errors and things that can be done better; nit-picking the same way I nit-pick for your code. I make notes, I go through and make the changes locally everytime I see something that needs changed. Then, I push back up, and view my Pull Request again. I continue until I cannot find any more errors. **Then**, I request reviewers.
+I review my own pull requests the exact same as when I review any of yours. I go line by line with a careful eye, looking for syntax errors and things that can be done better; nit-picking the same way I nit-pick yours. I make notes, I go through and make the changes locally everytime I see something that needs changed. Then, I push back up, and view my Pull Request again. I continue until I cannot find any more errors. **Then**, I request reviewers.
 
 The difference at this point is that now I am 100% confident in my code. I've caught those "silly" errors. Now when a reviewer comments on my code suggesting changes they could only be for one of two reasons -
 
@@ -31,6 +31,13 @@ The difference at this point is that now I am 100% confident in my code. I've ca
 > When I review your pull requests, and I see something that should change - I provide the requested change as well as an indepth explanation of *why*. In case it is a learning experience, more information is provided to help you grow.
 ---
 
+#### Checking Your Work As You Go
+
+While self-reviewing our own pull requests helps in learning how to check our own work - we should push it even further. I do not wait until the end to start checking my own work, but instead I check while developing.
+
+One of the most time consuming bugs to fix is a syntax error in a project of messy, unformatted code. It literally becomes a hunt to find the needle in the haystack. You should **slow down**. As you write code, you need to constantly be making sure your formatting is correct and the files have the correct tabs/spaces. This is a million times easier to tell if you are missing a closing `</div>` or a missing `}` if you are formatting as you write your code.
+
+---
 
 
 **Slow down.** Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
