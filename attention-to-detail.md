@@ -1,6 +1,6 @@
 # Developing Habits to Work Faster
 
-Over time, it's important to develop habits that can help you increase your productivity and learn things more quickly. Through experience, I have learned a habits that has made a big impact on how I work, and maybe my perspective can help you as well.
+Over time, it's important to develop habits that can help increase your productivity. Through experience, I have learned a few habits that have made a big impact on how I work, and maybe my perspective can help you as well.
 
 ## Practice checking your work
 
