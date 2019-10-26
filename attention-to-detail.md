@@ -9,10 +9,16 @@ No matter what task we are given, most likely, we will make mistakes. We will ve
 
 ### Practice checking your work
 
-You should start practicing checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things.
+You should start practicing checking your own work, even when it's all in your head. Everyone makes mistakes, but to move faster through those mistakes - we need to strive to do two things -
 
 1. Develop habits that lower the amount of mistakes we are making.
 2. Develop habits that allow us to catch those mistakes more quickly.
+
+Let's say we are working on a task - we are developing a feature for our project. We have visually studied the mockup we should folow and we have coded it at our best ability. It is working in the browser, it looks just like the design - awesome!  So we commit our work and push our branch up to Github. We create a Pull Request and immediately request reviewers, and move on to our next task. We did it!
+
+**Not quite.** When I finish my feature locally - I create my Pull Request and I immediately click on the "files" tab and view all my code changes. I give myself a code review *before* I ask any reviewers to take a look.
+
+
 
 **Slow down.** Practice checking your own work, even when it’s all in your head.  Everybody makes mistakes, but you will make fewer of them if you give yourself time to process and look over things in detail.
 
