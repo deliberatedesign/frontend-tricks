@@ -28,7 +28,7 @@ The difference at this point is that now I am 100% confident in my code. I've ca
 1. It is something I completely didn't think of and have overlooked.
 2. It is something I have yet to learn, and it becomes a learning experience.
 
-
+> "It becomes a learning experience." This is the exact reason that when I review your Pull Requests, and I see something that should change - I provide the requested change as well as an indepth explanation of *why*. In case it is a learning experience, more information is provided to prevent copy/paste of suggests without understanding.
 ---
 
 
