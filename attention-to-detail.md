@@ -1,6 +1,6 @@
 # Developing Habits to Work Faster
 
-Over time, it's important to develop habits that can increase your productivity. Through experience, I have learned a few habits that have made a big impact on how I work, and maybe can help you as well.
+Over time, it's important to develop habits that can increase your productivity. Through experience, I have learned a few habits that have made a big impact on how I work, and perhaps you want to try out a few yourself.
 
 ## Slow down.
 
@@ -35,7 +35,9 @@ The difference at this point is that now I am 100% confident in my code. I've ca
 
 While self-reviewing our own pull requests helps in learning how to check our own work - we should push it even further. I do not wait until the end to start checking my own work, but instead I check while developing.
 
-One of the most time consuming bugs to fix is a syntax error in a project of messy, unformatted code. It literally becomes a hunt to find the needle in the haystack. You should **slow down**. As you write code, you need to constantly be making sure your formatting is correct and the files have the correct tabs/spaces. This is a million times easier to tell if you are missing a closing `</div>` or a missing `}` if you are formatting as you write your code.
+One of the most time consuming bugs to fix is a syntax error in a project of messy, unformatted code. It literally becomes a hunt to find the needle in the haystack. You should **slow down**. As you write code, you need to constantly check your formatting and if the files have the correct tabs/spaces. It is a million times easier to tell if you are missing a closing `</div>` or a missing `}` if you are formatting as you write your code.
+
+As we learn and are getting comfortable with new things as developers - it's fantastic to reference other files and investigate how they work. A method we all utiltize, is to copy/paste working code to reuse it to work for our use case. This is great, but I encourage you to take a closer look when doing this. You should be trying to understand what that code is doing so as you become comfortable and eventually understand it so well - you can write it better.  If we copy and paste items without giving it a closer work - we are missing the opportunity to learn and become better developers. Your project will become difficult for you to work in, and you won't know how to fix errors that arise.
 
 ---
 
