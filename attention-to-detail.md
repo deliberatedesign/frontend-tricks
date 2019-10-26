@@ -49,11 +49,11 @@ It can be easy to google things quickly, or copy and paste something that seems 
 
 Keeping a strong note system is key. It’s difficult to remember every fix you’ve made, every command, or every process unless it is written down and can easily be searched.
 
-I personally take notes on every bug I've had to tackle and the fix that sovled it. This is not wasted effort, but instead can save countless hours. I could run into the same error in the future, and I will have quick reference to provide a fix instantly.  If a better fix is discovered, I make sure to update my note as well.
+I personally take notes on every bug I've had to tackle and the fix that solved it. This is not wasted effort, but instead can save countless hours. I could run into the same error in the future, or you could, and I will have quick reference to provide a fix instantly.  If a better fix is discovered, I make sure to update my note as well.
 
-I do the same for things I am just learning, even when they are very small. The more I can go back to my notes, helps me understand it better, and I can repeat it as I become comfortable with it. This also prevents me having to reach out or "re-learn" something because it's been a while.
+I do the same for things for what I am just learning, even when those things are small. The more I can go back to my notes, helps me understand it better, and I can repeat it as I become comfortable with it. This also prevents me having to reach out or re-learn something because it's been a while.
 
-We become better at our skillset with experience, so you can think of referencing your notes as an accelerator to gaining that experience. We can do this by accuratly recording the knowledge we have learned instead of having to become more familiar each time.
+We become better at our skillset with experience, so you can think of referencing your notes as an accelerator to gaining that experience. We can do this by accuratly recording the knowledge we have learned instead of having to become more familiar and re-learning each time.
 
 
 
